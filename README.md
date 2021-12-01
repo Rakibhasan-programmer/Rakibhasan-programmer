@@ -27,6 +27,10 @@
 - ⚡ Fun fact: I am introvert.
 
 
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
+[![GitHub](https://img.shields.io/github/followers/Rakibhasan-programmer?label=follow&style=social)](https://github.com/Rakibhasan-programmer)
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -34,7 +38,15 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
+
+<a href="https://github.com/Rakibhasan-programmer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakibulhasan-programmer&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/Rakibhasan-programmer">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakibhasan-programmer&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 
 <div align="center">

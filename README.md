@@ -10,7 +10,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/rakibulhasan.programmer/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Rakib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I am introvert.
 
 
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
+[![Linkedin: rakibulHasan](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
 [![GitHub](https://img.shields.io/github/followers/Rakibhasan-programmer?label=follow&style=social)](https://github.com/Rakibhasan-programmer)
 
 

@@ -27,7 +27,7 @@
 - ⚡ Fun fact: I am introvert.
 
 
-[![Linkedin: rakibulHasan](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
+[![Linkedin: rakibulHasan](https://img.shields.io/badge/-rakibulHasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
 [![GitHub](https://img.shields.io/github/followers/Rakibhasan-programmer?label=follow&style=social)](https://github.com/Rakibhasan-programmer)
 
 

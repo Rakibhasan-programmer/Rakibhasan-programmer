@@ -18,7 +18,7 @@
 
 
 - 🔭 Curently I'm undergraduate at Southeast University.
-- 🌱 I’m currently learning more about Web design and development.
+- 🌱 I’m currently learning more about Full stack development (MERN).
 - 👯 I’m looking to share more knowledge to open source.
 - 🤔 I’m looking for improving my problem solving skills.
 - 💬 Ask me about Web development and Carier Guideline.

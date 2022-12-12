@@ -1,7 +1,7 @@
 ## Assalamu Alaikum, I'm [Rakibul Hasan!](https://rakibulhaasan.netlify.app/) 👋
 
 <a href="https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: white;" />
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #FFF;" />
 </a>
 <a href="https://github.com/Rakibhasan-programmer">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />

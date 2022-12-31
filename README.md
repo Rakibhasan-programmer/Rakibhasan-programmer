@@ -24,7 +24,7 @@
 - 💬 Ask me about Web development and Carier Guideline.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am introvert.
+- ⚡ Fun fact: I am an introvert.
 
 
 [![Linkedin: rakibulHasan](https://img.shields.io/badge/-rakibulHasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)](https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/)

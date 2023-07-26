@@ -1,21 +1,6 @@
 ## Assalamu Alaikum, I'm a Front-end developer and a tech enthusiast! 👋
 
-<a href="https://www.linkedin.com/in/md-rakibul-hasan-4454481b9/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="color: #7F00FF;" />
-</a>
-<a href="https://github.com/Rakibhasan-programmer">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/_xyco_king/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/rakibulhasan.programmer/">
-  <img align="left" alt="Rakib's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br/>
-<br/>
-
 
 - 🔭 Curently I'm undergraduate at Southeast University.
 - 🌱 I’m currently learning more about Full stack development (MERN).

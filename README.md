@@ -35,11 +35,19 @@
 
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibhasan-programmer&show_icons=true&locale=en&layout=compact" alt="rakibhasan-programmer" /></p>
+<h3 align="left">🔥  My Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibhasan-programmer&show_icons=true&locale=en" alt="rakibhasan-programmer" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rakibhasan-programmer&" alt="rakibhasan-programmer" /></p>
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahimahammed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="126" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimahammed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="126" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=fahimahammed&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="219" alt="streak graph"  />
+</div>
+
+###
 
 
 

@@ -1,4 +1,3 @@
-<img src="https://i.ibb.co/n866trS/Blue-and-Red-Modern-Marketing-Manager-Linked-In-Article-Cover-Image-1.jpg" alt="Banner" />
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan</h1>
 <h3 align="center">A passionate Fullstack developer from Bangladesh</h3>
 <br/>
